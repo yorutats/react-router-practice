@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-router-practice/static/css/main.073c9b0a.css",
+    "main.js": "/react-router-practice/static/js/main.328432c6.js",
+    "static/js/787.635aedaa.chunk.js": "/react-router-practice/static/js/787.635aedaa.chunk.js",
+    "index.html": "/react-router-practice/index.html",
+    "main.073c9b0a.css.map": "/react-router-practice/static/css/main.073c9b0a.css.map",
+    "main.328432c6.js.map": "/react-router-practice/static/js/main.328432c6.js.map",
+    "787.635aedaa.chunk.js.map": "/react-router-practice/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.328432c6.js"
+  ]
+}
